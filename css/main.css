@@ -1,0 +1,21 @@
+body {
+  font-family: "Helvetica","Arial",serif;
+  color: #333;
+  background-color: #ccc;
+  margin: 1em 10%;
+}
+li{
+	float:left;
+	list-style: none;
+	padding:1em;
+}
+img{
+	clear:both;
+	display: block;
+}
+li a{
+	color:#c60;
+	font-weight:bold;
+	text-decoration:none;
+	background-color: transparent;
+}
